@@ -1,20 +1,20 @@
-- title: Sanjay Bhardwaj
-  name: Name-1
-  subtitle: Principal - Strategy, Emerging Markets, Digital Health, RIJUVEN Corp
-  img: sanjay.jpg
-  thumbnail: sanjay.jpg
-  alt: Picture of Sanjay Bhardwaj
-  topic: Reducing Costs and Extending Access to Quality Medical Care with Telemedicine 
-  description: We will explore medical care extension strategies and tools for better outcomes.
-
 - title: Kieran Walsh
-  name: Name-2
+  name: Name-1
   subtitle: Clinical Director, British Medical Journal (BMJ)
   img: kieran_walsh.jpg
   thumbnail: kieran_walsh.jpg
   alt: Picture of Kieran Walsh
   topic: Tools for Improving Patient Outcomes 
   description: We will learn from decades of experience developing and using innovative tools with focus BMJ projects and products for medical practice and research. 
+
+- title: Sanjay Bhardwaj
+  name: Name-2
+  subtitle: Principal - Strategy, Emerging Markets, Digital Health, RIJUVEN Corp
+  img: sanjay.jpg
+  thumbnail: sanjay.jpg
+  alt: Picture of Sanjay Bhardwaj
+  topic: Reducing Costs and Extending Access to Quality Medical Care with Telemedicine 
+  description: We will explore medical care extension strategies and tools for better outcomes.
 
 - title: Iraneus Ogu  
   name: Name-3
