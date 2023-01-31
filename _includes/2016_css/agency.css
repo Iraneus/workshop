@@ -339,7 +339,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/2017_style/img/credit-payment2.jpg');
+    background-image: url('{{ site.baseurl }}/css/2017_style/img/brain-image1.webp');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
