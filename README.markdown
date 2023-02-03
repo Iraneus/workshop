@@ -1,1 +1,1 @@
-MedNeed Workshop brings together key players in the medical care financing to explore solutions for more quality and affordable medical care.
+MedNeed Workshop is bringing stakeholders in healthcare together to learn and share with the aim of improving access to more quality and affordable medical care for more people.
